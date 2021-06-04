@@ -33,7 +33,10 @@ Challenges
     Develop this as a mobile application that makes it easy to record each drink, updating the BAC each time a drink is entered.
 
 */
-
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 first_name last_name
+ */
 import java.util.Scanner;
 
 public class ex17 {
